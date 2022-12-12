@@ -4,13 +4,19 @@ https://www.labri.fr/perso/schlick/outinfo/projet.html
 Sujet:
 statistiques sur les cartes yugioh
 
+Lien vers dépot du projet:
+https://github.com/seriousboi/Projet-Outinfo
+
 à faire:
 
--trouver des bases de données
--faire une introduction sur les cartes yugioh
+-faire présnetation d'une carte yugioh
+-extraire et rendre utilisable la base de données
 -choisir quelles statistiques calculer et comment les représenter
 
+
 statistques à calculer:
+
+
 
 
 
