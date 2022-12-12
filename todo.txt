@@ -1,0 +1,17 @@
+Lien vers énoncé du projet:
+https://www.labri.fr/perso/schlick/outinfo/projet.html
+
+Sujet:
+statistiques sur les cartes yugioh
+
+à faire:
+
+-trouver des bases de données
+-faire une introduction sur les cartes yugioh
+-choisir quelles statistiques calculer et comment les représenter
+
+statistques à calculer:
+
+
+
+
